@@ -1,3 +1,1 @@
-- Hello, I'm **Siddharth**.
-- Computer Engg Undergrad
-- Take interest in Programming, Computer Hardware, Computer Graphics, Linux, Maths and Art.
+
